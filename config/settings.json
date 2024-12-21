@@ -1,0 +1,22 @@
+{
+    "game_servers": [
+        {
+            "name": "Google DNS",
+            "ip": "8.8.8.8",
+            "port": 53
+        },
+        {
+            "name": "Cloudflare DNS",
+            "ip": "1.1.1.1",
+            "port": 53
+        },
+        {
+            "name": "OpenDNS",
+            "ip": "208.67.222.222",
+            "port": 53
+        }
+    ],
+    "ping_interval": 5,
+    "optimization_threshold": 100,
+    "preferred_gateways": []
+}
